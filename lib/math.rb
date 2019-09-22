@@ -15,8 +15,8 @@ end
 def division(num1, num2)
   num1 = 50
   num1 = 2
-  puts (num2 / num1)
-  return num2 / num1
+  puts (num1 / num2)
+  return num1 / num
 end
 
 def multiplication(num1, num2)
